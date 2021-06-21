@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center"> 1
 <h1 align="center">贴吧签到助手</h1>
 <img src="https://img.shields.io/github/issues/srcrs/TiebaSignIn?color=green">
 <img src="https://img.shields.io/github/stars/srcrs/TiebaSignIn?color=yellow">
